@@ -1,0 +1,17 @@
+.flex-wrap {
+    flex-wrap: wrap;
+  }
+  #imdbitems img {
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+  }
+  
+  .d-flex {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .mx-4 {
+    margin-left: 8px;
+  }
