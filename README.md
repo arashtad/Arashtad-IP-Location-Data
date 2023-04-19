@@ -1,7 +1,7 @@
 # Arashtad-IP-Location-Data
 
 We have used the Sci-Fi Games UI Elements Pack repository to create the IP Location web page. Custom.css has been added to the css folder as well as the iplocation.html
-file in the templates folder. The main focus of our project is on the crypto.html file.
+file in the templates folder. The main focus of our project is on the iplocation.html file.
 
 ## Sci-Fi Games UI Elements Pack
 
